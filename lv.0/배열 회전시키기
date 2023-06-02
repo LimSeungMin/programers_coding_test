@@ -12,3 +12,4 @@ def solution(numbers, direction):
         answer = numbers[1:] + numbers[:1]
     
     return answer
+    
